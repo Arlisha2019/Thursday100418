@@ -1,0 +1,95 @@
+body { padding-top: 70px; }
+
+
+.navbar {
+  font-size: 35px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.menu {
+
+    height: 40px;
+    width: auto;
+    margin: auto;
+    background-color: #08c;
+    color: white;
+  }
+
+ a {
+   color: white;
+ }
+ .reviews {
+   background-color: #dfe6e9;
+ }
+
+h4 {
+  color: #08c;
+  margin-bottom: 0px;
+}
+
+h6 {
+  background-color: #e17055;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 0.67em;
+}
+
+element.style {
+  margin-bottom: 0px;
+
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.boxed {
+    background-color: #dfe6e9;
+
+    width: 100px;
+    height: 100px;
+
+}
+
+.lang_thumb{
+
+  background-image: url('JS.png');
+  height: 250px;
+  margin-bottom: 25px;
+}
+
+.Cs {
+  background-image: url('C3.png');
+
+  height: 250px;
+  margin-bottom: 25px;
+
+
+}
+
+.swift {
+  background-image: url('Swift.jpeg');
+  height: 250px;
+  margin-bottom: 25px;
+}
+
+.data {
+  background-image: url('Database.jpeg');
+  height: 250px;
+  margin-bottom: 25px;
+}
+
+.python {
+  background-image: url('Python.jpeg');
+  height: 250px;
+  margin-bottom: 25px;
+}
+
+.vb {
+  background-image: url('vb_net.png');
+  height: 250px;
+  margin-bottom: 25px;
+}
